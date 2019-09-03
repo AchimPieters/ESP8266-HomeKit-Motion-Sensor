@@ -1,7 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-//#include <espressif/esp_wifi.h>
-//#include <espressif/esp_sta.h>>
 #include <espressif/esp_common.h>
 #include <esp/uart.h>
 #include <esp8266.h>
@@ -106,7 +104,6 @@ homekit_server_config_t config = {
 };
 
 void on_wifi_ready() {
-        homekit_server_init(&config);
 }
 
 void create_accessory_name() {
