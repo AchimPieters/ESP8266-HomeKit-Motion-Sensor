@@ -1,6 +1,7 @@
 # ESP8266-HomeKit-Motion-Sensor
 ESP8266 – HomeKit Motion Sensor
 
+For More Information Visit http://www.studiopieters.nl/
 
 <img src="https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Fountain-light/master/Images/apple_logo.png" width="20"/>
 
