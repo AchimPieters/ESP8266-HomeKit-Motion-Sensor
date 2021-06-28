@@ -1,7 +1,15 @@
 # ESP8266-HomeKit-Motion-Sensor
 ESP8266 – HomeKit Motion Sensor
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/achimpieters/ESP8266-HomeKit-Motion-Sensor)
+![GitHub All Releases](https://img.shields.io/github/downloads/achimpieters/ESP8266-HomeKit-Motion-Sensor/total)
+[![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/hyperion-project/hyperion.ng/master/LICENSE)
+[![Donate](https://img.shields.io/badge/donate-PayPal-blue.svg)](https://paypal.me/AJFPieters)
+
 For More Information Visit http://www.studiopieters.nl/
+
+
+For more information visit:https://www.studiopieters.nl/esp8266-homekit-motion-sensor ‎
 
 <img src="https://raw.githubusercontent.com/AchimPieters/ESP8266-HomeKit-Fountain-light/master/Images/apple_logo.png" width="20"/>
 
